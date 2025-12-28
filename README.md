@@ -1,8 +1,10 @@
 <!-- ⚡ Pragati Pandey — MERN Stack Developer & Machine Learning Enthusiast -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Pragati+Pandey+👋;MERN+Stack+Developer+💻;Machine+Learning+Enthusiast+🤖;Full+Stack+Creator+and+Innovator+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Hello!+I'm+Pragati+Pandey+👋;MERN+Stack+Developer+💻;Machine+Learning+Enthusiast+🤖;Building+Cool+Projects+🚀" />
 </h1>
+
+
 
 <h3 align="center">🚀 B.Tech CSE Student | MERN Stack Developer | Machine Learning Enthusiast</h3>
 
