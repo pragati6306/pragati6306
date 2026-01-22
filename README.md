@@ -1,7 +1,6 @@
 <!-- ⚡ Pragati Pandey — MERN Stack Developer & Machine Learning Enthusiast -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Hello!+I'm+Pragati+Pandey+👋;MERN+Stack+Developer+💻;Machine+Learning+Enthusiast+🤖;Building+Cool+Projects+🚀" />
 </h1>
 
 
@@ -53,15 +52,13 @@
 
 ## 🌈 Featured Projects
 
-| 🚀 Project | 🧩 Description | 🛠 Tech Stack | 🔗 Link |
+| 🚀 Project | 🧩 Description | 🛠 Tech Stack 
 |-------------|----------------|--------------|---------|
-| **ML Disaster Prediction** | Machine learning model predicting natural disaster likelihood from datasets | Python, Pandas, Sklearn, ML | 🔗 Soon |
 | **Mindset Matchmaking Website** | Connects users based on personality, goals & compatibility score | HTML, CSS, JS, Node.js | 🔗 Soon |
 | **Planify — To-Do App** | To-do application with CRUD & task organization | MERN Stack | 🔗 Soon |
 | **CalmCompanion (Dementia Wellness App)** | A wellness support platform for dementia patients with calming UI activities | MERN + AI + Wellness UI | 🔗 Soon |
-| **AI Portfolio** | Developer portfolio with integrated GPT for live interaction | React + GPT API | 🔗 Soon |
-| **VisionVault** | Deep learning-based image classification web app | Flask + TensorFlow | 🔗 Soon |
-| **TaskTrackr (MERN)** | Task manager app with auth + productivity stats | MERN + JWT + Analytics | 🔗 Soon |
+| **ML Disaster Prediction** | Machine learning model predicting natural disaster likelihood from datasets | Python, Pandas, Sklearn, ML 
+
 
 
 ---
