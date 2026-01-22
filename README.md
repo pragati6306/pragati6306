@@ -36,7 +36,7 @@
 ## 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,cpp,java,html,css,tailwind,git,github,postman,vscode,tensorflow,flask" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,cpp,java,html,css,tailwind,git,github,postman,vscode" />
 </p>
 
 | **Category** | **Technologies & Tools** |
@@ -53,36 +53,11 @@
 ## 🌈 Featured Projects
 
 | 🚀 Project | 🧩 Description | 🛠 Tech Stack 
-|-------------|----------------|--------------|---------|
-| **Mindset Matchmaking Website** | Connects users based on personality, goals & compatibility score | HTML, CSS, JS, Node.js | 🔗 Soon |
-| **Planify — To-Do App** | To-do application with CRUD & task organization | MERN Stack | 🔗 Soon |
-| **CalmCompanion (Dementia Wellness App)** | A wellness support platform for dementia patients with calming UI activities | MERN + AI + Wellness UI | 🔗 Soon |
+|-------------|----------------|--------------|
+| **Mindset Matchmaking Website** | Connects users based on personality, goals & compatibility score | HTML, CSS, JS, Node.js | 
+| **Planify — To-Do App** | To-do application with CRUD & task organization | MERN Stack |
+| **CalmCompanion (Dementia Wellness App)** | A wellness support platform for dementia patients with calming UI activities | MERN + AI + Wellness UI | 
 | **ML Disaster Prediction** | Machine learning model predicting natural disaster likelihood from datasets | Python, Pandas, Sklearn, ML 
-
-
-
----
-
-## 📊 GitHub Stats & Insights
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pragatipande&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=pragatipande&theme=react&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragatipande&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
-## 🛰️ Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pragatipande&theme=react-dark&hide_border=true&area=true" width="95%"/>
-</p>
-
----
 
 ## 🌐 Let’s Connect
 
@@ -94,12 +69,6 @@
 
 ---
 
-## 💬 Quote I Live By
-
-> “Artificial intelligence won’t replace developers — but developers who use AI will replace those who don’t.”  
-> — *Unknown*
-
----
 
 ## 🎧 Fun Side of Me
 
@@ -114,8 +83,5 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="coding gif"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/pragatipande/pragatipande/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 <h3 align="center">⚡ Thanks for visiting my profile — Let’s innovate with code and intelligence! 🤝</h3> 
