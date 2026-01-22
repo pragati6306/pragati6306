@@ -77,11 +77,11 @@
 
 ---
 
-<h3 align="center">⭐ If you like my work, show some love by starring my repos — it truly motivates me!</h3>
+<h3 align="center">⭐ If you like my work, show some love by starring my repos, it truly motivates me.</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="coding gif"/>
 </p>
 
 
-<h3 align="center">⚡ Thanks for visiting my profile — Let’s innovate with code and intelligence! 🤝</h3> 
+<h3 align="center">⚡ Let’s innovate with code and intelligence. 🤝</h3> 
