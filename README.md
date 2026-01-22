@@ -9,7 +9,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pragatipande&color=00FFFF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/pragatipande?label=Followers&style=for-the-badge&color=ff69b4" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-brightgreen?style=for-the-badge" alt="Focus Badge" />
 </p>
 
